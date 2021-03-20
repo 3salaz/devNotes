@@ -1,10 +1,10 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](../_media/3salaz-logo.png)
 
-# TechNotes - (Spanish Translation NEEDED) <small>v0.1</small>
+# Notas Tecnológicas <small>v0.1</small>
 
-> Notes And Resources
+> Notas 📚 Y Recursos 👨🏽‍💻
 
 - Walkthroughs
 - 

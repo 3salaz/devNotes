@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AACI,WADO,CACP,GAAG,CAAA;EACC,KAAK,EAAE,IAAI;CACd",
+    "sources": [
+        "master.scss",
+        "components/_coverMain.scss"
+    ],
+    "names": [],
+    "file": "master.css"
+}
