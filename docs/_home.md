@@ -11,8 +11,8 @@
 - 🔭 I’m currently working as a web/app developer. Hire Me @ [3salaz](https://3salaz.com/)!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other engineers online!
-- 🥅 2021 Goals: Contribute more to my unity project.
-- ⚡ Fun fact: ...
+- 🥅 2021 Goals: Build Up / Support My Groups, [Mixed Media](https://) and [LatinX in Gameheads](https://latinX)
+<!-- - ⚡ Fun fact: ... -->
 
 ### Spotify Playing 🎧
 
