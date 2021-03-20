@@ -1,0 +1,18 @@
+{
+  "name": "tech",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "docsify serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "doc": "docs"
+  },
+  "description": "",
+  "dependencies": {
+    "docsify": "^4.12.1"
+  }
+}
