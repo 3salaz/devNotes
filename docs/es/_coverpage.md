@@ -6,8 +6,8 @@
 
 > Notas 📚 Y Recursos 👨🏽‍💻
 
-- Walkthroughs
+- Tutoriales
 - 
 
-[Submit A Q's](https://github.com/docsifyjs/docsify/)
-[View Docs](#docsify)
+[Envíe una pregunta 📨](https://github.com/docsifyjs/docsify/)
+[Ver documentos 🗃](#main)

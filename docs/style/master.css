@@ -1,4 +1,62 @@
 .cover-main img {
   width: 10em;
 }
+
+aside.sidebar {
+  background-color: #993939;
+}
+
+aside.sidebar .search {
+  background-color: white;
+  margin: 0;
+}
+
+aside.sidebar .app-name {
+  background-color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 4em;
+}
+
+aside.sidebar .app-name .app-name-link {
+  height: 100%;
+}
+
+aside.sidebar .app-name a img {
+  height: 100%;
+}
+
+aside.sidebar .sidebar-nav {
+  background-color: white;
+  height: 70%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+aside.sidebar .sidebar-nav .sidebar-footer {
+  padding: 1em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+aside.sidebar .sidebar-nav .sidebar-footer .btn {
+  border: solid white .1em;
+}
+
+.sidebar-toggle {
+  background-color: white;
+}
 /*# sourceMappingURL=master.css.map */

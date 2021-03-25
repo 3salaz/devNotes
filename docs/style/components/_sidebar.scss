@@ -1,0 +1,38 @@
+aside.sidebar{
+    background-color: rgb(153, 57, 57);
+    .search{
+        background-color: white;
+        margin: 0;
+    }
+    .app-name{
+        background-color: white;
+        display: flex;
+        height: 4em;
+        .app-name-link{
+            height: 100%;
+        }
+        a img{
+            height: 100%;
+        }
+    }
+    .sidebar-nav{
+        background-color: white;
+        height: 70%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        .sidebar-footer{
+            padding: 1em;
+            display: flex;
+            justify-content: space-evenly;
+            
+            .btn{
+                border: solid white .1em;
+            }
+        }
+    }
+}
+.sidebar-toggle{
+    // width: 95%;
+    background-color: white;
+}
